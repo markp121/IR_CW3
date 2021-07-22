@@ -127,4 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-final_data.pickle
+*.pickle
+*.csv
+Elastic_search_test_old.ipynb
